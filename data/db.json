@@ -80,6 +80,17 @@
       "method": "qazwsx edcrfv tgbyhn ",
       "cookingTime": "20minutes",
       "id": "I_tJ4V0"
+    },
+    {
+      "title": "Frech Fries",
+      "ingredients": [
+        "potato",
+        "oil",
+        "salt"
+      ],
+      "method": "just fry",
+      "cookingTime": "10 minutes",
+      "id": "kBCbFe5"
     }
   ]
 }
